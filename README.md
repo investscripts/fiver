@@ -1,13 +1,13 @@
-# fiver
-requirements
-I'm looking to create a very simple one page website similar to https://mmafightcards.org.  I obviously do not want an exact copy - I'd like to see some of your creative improvements and ideas based on the reviews you have it looks like you're very talented!    Here are the details and "must haves":
+# fiver requirements
+
+I'm looking to create a very simple one page website similar to https://mmafightcards.org.  I obviously do not want an exact copy - I'd like to see some of your creative improvements and ideas based on the reviews you have it looks like you're very talented! Here are the details and "must haves":
 
 1.  All text should be able to be modified easily with a text editor. I need to be able to easily update new schedules, names, dates, urls, etc etc. As long as I can edit with a text editor that will be fine. 
 
 2. Each name (fighter) should be a clickable link - > The URL I'll edit - but for now you can use https://www.tapology.com/fightcenter/fighters/14607-conor-mcgregor for all links
 
 3. The website I gave you as an example only shows one league's schedule and that league is called "UFC" however there are 2 other leagues I'd like to have (that's how this page you create will be different than the website I provided as an example)
-  - 
+
 UFC, Bellator, and One
 
 (If possible I'd like to have it so that I can easily add/remove a new league in the future)
