@@ -20,7 +20,7 @@ UFC, Bellator, and One
 
 6. I'd like the icon for the Bellator logo to be the picture I uploaded called - bellatorlogo
 
-7. I'd like the icon for the One log to be the picture I uploaded called - one logo
+7. I'd like the icon for the One log to be the picture I uploaded called - onelogo
 
 
 8. The right side of the page should be a list of upcoming fights and they should have a different color when hovering or any other nice effect you feel would look good.
